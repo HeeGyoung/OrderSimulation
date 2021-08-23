@@ -1,2 +1,7 @@
 -e .
-pytest
+pycodestyle
+aws_cdk.aws_lambda
+aws_cdk.aws_apigateway
+aws_cdk.aws_dynamodb
+aws_cdk.aws-lambda-event-sources
+aws_cdk.assertions
